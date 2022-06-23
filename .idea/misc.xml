@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/drawable-v24/ic_filter_list.xml" value="0.1075" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/drawable/ic_arrow_back.xml" value="0.3145" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/drawable/ic_filter_list.xml" value="0.1075" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_details.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_gallery.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_home.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_main.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_menu.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_ratings.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/fragment_add_photo_dialog.xml" value="0.18" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/fragment_add_rating_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/fragment_edit_rating_dialog.xml" value="0.22631578947368422" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/fragment_filter_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/item_menu.xml" value="0.3458333333333333" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/item_photo.xml" value="0.22598684210526315" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/item_rating.xml" value="0.22" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/layout/item_restaurant.xml" value="0.33" />
+        <entry key="..\:/Users/Nando/AndroidStudioProjects/Veggierants/app/src/main/res/menu/home_menu.xml" value="0.22631578947368422" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

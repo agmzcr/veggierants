@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575212903392",
+    "project_id": "veggierants",
+    "storage_bucket": "veggierants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575212903392:android:9741f385c92b5705d02985",
+        "android_client_info": {
+          "package_name": "dev.agmzcr.veggierants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575212903392-ic3j9k2hi0d5cmdnpe4nj6dm8s7btobj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwc4ysV2dOxFmWX-EPHWr5H9CnAQgqHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575212903392-ic3j9k2hi0d5cmdnpe4nj6dm8s7btobj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

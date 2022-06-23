@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Veggierants</string>
+
+    <string-array name="themes">
+        <item>Todos los restaurantes</item>
+        <item>Italiano</item>
+        <item>Japonés</item>
+        <item>Mediterráneo</item>
+        <item>Burger</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Todas las ciudades</item>
+        <item>Barcelona</item>
+        <item>Madrid</item>
+        <item>Sevilla</item>
+    </string-array>
+
+    <string-array name="sort_by">
+        <item>Ordenar por valoración media</item>
+        <item>Ordenar por número de valoraciones</item>
+        <item>Ordenar por precio medio</item>
+    </string-array>
+
+    <string-array name="order_by">
+        <item>Descendiente</item>
+        <item>Ascendiente</item>
+    </string-array>
+</resources>

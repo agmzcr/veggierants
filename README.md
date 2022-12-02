@@ -8,11 +8,6 @@
      <td>Home Screen</td>
      <td>Filter Dialog</td>
      <td>Details Screen</td>
-     <td>Add Photo Dialog</td>
-     <td>Photos Screen</td>
-     <td>Menu Screen</td>
-     <td>Comments Screen</td>
-     <td>Add Comment Dialog</td>
   </tr>
   <tr>
     <td><img src="screenshots/Screenshot4.png" width=270 height=480></td>
@@ -20,6 +15,17 @@
     <td><img src="screenshots/Screenshot2.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot3.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot6.png" width=270 height=480></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+     <td>Add Photo Dialog</td>
+     <td>Photos Screen</td>
+     <td>Menu Screen</td>
+     <td>Comments Screen</td>
+     <td>Add Comment Dialog</td>
+  </tr>
+  <tr>
     <td><img src="screenshots/Screenshot8.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot1.png" width=270 height=480></td>
     <td><img src="screenshots/Screenshot9.png" width=270 height=480></td>

@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><img src="screenshots/Screenshot4.png" width=135 height=240></td>
-    <td><img src="screenshots/Screenshot5.png" width=135 height=2400></td>
+    <td><img src="screenshots/Screenshot5.png" width=135 height=240></td>
     <td><img src="screenshots/Screenshot2.png" width=135 height=240></td>
     <td><img src="screenshots/Screenshot3.png" width=135 height=240></td>
     <td><img src="screenshots/Screenshot6.png" width=135 height=240></td>
@@ -26,11 +26,11 @@
      <td>Add Comment Dialog</td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot8.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot1.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot9.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot11.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot10.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot8.png" width=135 height=240></td>
+    <td><img src="screenshots/Screenshot1.png" width=135 height=240></td>
+    <td><img src="screenshots/Screenshot9.png" width=135 height=240></td>
+    <td><img src="screenshots/Screenshot11.png" width=135 height=240></td>
+    <td><img src="screenshots/Screenshot10.png" width=135 height=240></td>
   </tr>
  </table>
  
